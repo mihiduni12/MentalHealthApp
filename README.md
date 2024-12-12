@@ -31,3 +31,11 @@ A mood calendar visually maps daily posts and mood changes, creating a personal 
 <h3 style="font-size: 16px;">5. User-Centered Design</h3>
 A clean, intuitive interface designed using Figma.
 Provides a simple and engaging experience to ensure accessibility for all users.
+
+<br></br>
+
+<h2>Technology Stack</h2>
+<ul>
+    <li><strong>Frontend and Development Environment:</strong> React Native for cross-platform development and Android Studio for managing the Android build.</li>
+</ul>
+
